@@ -1,0 +1,8 @@
+{
+  "name": "testinggrounds",
+  "author": "Lols <reitsmaliam@gmail.com>",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
