@@ -1,6 +1,6 @@
 {
-  "name": "testinggrounds",
-  "author": "Lols <reitsmaliam@gmail.com>",
+  "name": "PROJECTNAME",
+  "author": "USEER",
   "publish": false,
   "dependencies": {
     "lib": "latest"
