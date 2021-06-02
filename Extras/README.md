@@ -1,16 +1,25 @@
-# README
-[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
+# Discord Role Menu - For [Autocode](https://autocode.com)
 
-This is the README for your project. If you choose to publish an open source `app`
-for this project, this is what will be displayed on [Autocode Apps](/app).
-**The first line** will be used as the title of the app. Otherwise, you should use it
-to record important information about the project for yourself or your teammates.
+#### Hey I see that Your Checking out my Project for Autocode! Well I hope you enjoy and find this very useful with your bot! | lols ♥️
 
-## Preview
-While in the Autocode Editor, you can see a small preview of your README
-in the bottom right corner. Click on it to expand the preview.
+## Let's get started!
+Keep in mind this is an **ADVANCED PROJECT** Meaning you should have a good understanding of Autocode!
 
-## GitHub
-Should you decide to publish your projects and templates to GitHub,
-you can include an **Open in Autocode** button as displayed above.
-This will enable anybody to fork your project in Autocode directly.
+First of all you will create one enviromental variable for your prefix, make sure to name it "PREFIX" for reference I used ! as mine 
+
+![Prefix](https://media.discordapp.net/attachments/811321690935001159/849451519043567666/Screen_Shot_2021-06-01_at_7.52.15_PM.png)
+
+Then Simply add all of the endpoints from the this github to autocode. 
+
+### Quick Notes
+All Triggers are listed in the top of the scripts
+
+Ignore the Extras folder as it is not needed
+
+Also Be sure to change the roles/role id's you'd like to use. Since this is just a project it will require some heavy customizing to fit your needs
+
+## Questions?
+
+Contact me on discord @lols#7896, if you have any questions, concerns, or issues! Thanks!
+
+Ps: This was rushed if you have any feedback let me know!
