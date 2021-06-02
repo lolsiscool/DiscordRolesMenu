@@ -14,7 +14,7 @@ Then Simply add all of the endpoints from the this github to autocode.
 ### Quick Notes
 All Triggers are listed in the top of the scripts
 
-Ignore the Extras folder as it is not needed
+Ignore the `README.md` file as it is not needed
 
 Also Be sure to change the roles/role id's you'd like to use. Since this is just a project it will require some heavy customizing to fit your needs
 
