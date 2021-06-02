@@ -1,3 +1,5 @@
+Trigger = Discord: message.button.interaction, custom_id: roles-yellowteam
+
 // authenticates you with the API standard library
 // type `await lib.` to display API autocomplete
 const lib = require('lib')({token: process.env.STDLIB_SECRET_TOKEN});
