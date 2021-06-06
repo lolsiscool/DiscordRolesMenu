@@ -1,8 +1,10 @@
 # Discord Role Menu - For [Autocode](https://autocode.com)
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
 
 #### Hey I see that Your Checking out my Project for Autocode! Well I hope you enjoy and find this very useful with your bot! | lols ♥️
 
-## Let's get started!
+## Let's get started
+
 Keep in mind this is an **ADVANCED PROJECT** Meaning you should have a good understanding of Autocode!
 
 First of all you will create one enviromental variable for your prefix, make sure to name it "PREFIX" for reference I used ! as mine 
